@@ -1,0 +1,26 @@
+ID,Categoria,Requisitos,Atende,Não Atende,A verificar,Peso
+1,Tecnico,XPTO 1 ?,,,,3
+2,Funcional,XPTO 2 ?,,,,4
+3,Tecnico,XPTO 1 ?,,,,1
+4,Funcional,XPTO 2 ?,,,,2
+5,Não Funcional,XPTO 1 ?,,,,6
+6,Tecnico,XPTO 2 ?,,,,5
+7,Funcional,XPTO 1 ?,,,,4
+8,Tecnico,XPTO 2 ?,,,,5
+9,Funcional,XPTO 1 ?,,,,3
+10,Não Funcional,XPTO 2 ?,,,,5
+11,Tecnico,XPTO 1 ?,,,,4
+12,Funcional,XPTO 2 ?,,,,5
+13,Tecnico,XPTO 1 ?,,,,6
+14,Funcional,XPTO 2 ?,,,,2
+15,Não Funcional,XPTO 1 ?,,,,3
+16,Tecnico,XPTO 2 ?,,,,1
+17,Funcional,XPTO 1 ?,,,,5
+18,Tecnico,XPTO 2 ?,,,,1
+19,Funcional,XPTO 1 ?,,,,6
+20,Não Funcional,XPTO 2 ?,,,,2
+21,Tecnico,XPTO 1 ?,,,,3
+22,Funcional,XPTO 2 ?,,,,4
+23,Tecnico,XPTO 1 ?,,,,4
+24,Funcional,XPTO 2 ?,,,,5
+,,,,,Total=,89
